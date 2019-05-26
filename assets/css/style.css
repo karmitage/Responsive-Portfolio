@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("../images/dark-honeycomb.png");
 }
 
 * {
@@ -68,7 +68,7 @@ h3 {
   width: 250px;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 90px;
   color: #ffffff;
@@ -136,7 +136,7 @@ h3, h2 {
 
 /* portfolio page */
 
-.work {
+/* .work {
   position: relative;
   float: left;
   width: 274px;
@@ -174,7 +174,7 @@ h3, h2 {
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
-}
+} */
 
 /* contact page */
 
